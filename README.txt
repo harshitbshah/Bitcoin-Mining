@@ -4,6 +4,9 @@ Project Partners:
 Harshit Shah [UFID: 1211-6976, Email ID: hbshah@ufl.edu]
 Pradeep Rajan [UFID: 1995-3544, Email ID: pradeepnr@ufl.edu]
 
+Description:
+Implemented a bitcoin miner using a distributed computing model. The bitcoins were generated with user-specified no. of leading zeroes using SHA-256 on randomly generated strings. The goal of this project was to use Elixir and the actor model to mine as many coins as possible and to build a solution that runs well on multi-core machines.
+
 Project Implementation:
 Local: ./project1 k -> where k is the no. of leading zeroes required in the bitcoin
 Remote:./project1 [server_ip_addr] -> specify the server ip address to connect
