@@ -1,2 +1,21 @@
-# Bitcoin-Mining
-Implemented a bitcoin miner using a distributed computing model. The bitcoins were generated with user-specified no. of leading zeroes using SHA-256 on randomly generated strings. The goal of this project was to use Elixir and the actor model to mine as many coins as possible and to build a solution that runs well on multi-core machines.
+# Project1
+
+**TODO: Add description**
+
+## Installation
+
+If [available in Hex](https://hex.pm/docs/publish), the package can be installed
+by adding `project1` to your list of dependencies in `mix.exs`:
+
+```elixir
+def deps do
+  [
+    {:project1, "~> 0.1.0"}
+  ]
+end
+```
+
+Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
+and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
+be found at [https://hexdocs.pm/project1](https://hexdocs.pm/project1).
+
